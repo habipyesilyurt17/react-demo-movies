@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The 100",
+      "rating": 8.3,
+      "overview": "This is a wider card with supporting text below as a natural lead in to additional content.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg"
+    },
+    {
+      "id": 2,
+      "name": "BLITZ",
+      "rating": 6.8,
+      "overview": "This is a wider card with supporting text below as a natural lead in to additional content.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/qjqmhhc7uLub22mhu4V6DjOBwXM.jpg"
+    },
+    {
+      "name": "Ben Efsaneyim",
+      "rating": "9.8",
+      "overview": "Test test Bir virüs, insan ırkını kana susamış mutantlara çevirir. Uygarlığın son umudu, virüsten etkilenmeyen tek kişi olan bilim adamı Robert Neville'dir.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6aN0R1fmC4H5CeWWOm6WikyNgMP.jpg",
+      "id": 3
+    },
+    {
+      "name": "Açlık Oyunları: Ateşi Yakalamak 123",
+      "rating": "8.4",
+      "overview": "Ateşi Yakalamak, Katniss Everdeen'in diğer haraç Peete Mellark'la 74. Açlık Oyunları'nı kazandıktan sonra sağ salim evine geri dönüşünden başlıyor. Kazanmak ikilinin ailelerini ve arkadaşlarını yeniden bırakarak mıntıkalarda \"Kazananların Tur\"”na çıkmaları gerektiği anlamına geliyor. Yolculukları esnasında Katniss bir ayaklanmaya hazırlanıldığını hissediyor. Ama Başkan Snow, Panem'i sonsuza dek değiştirebilecek 75. Açlık Oyunlarına hazırlanırken, Capitol kontrol altında gibi görünüyor.\n\n",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hl9tQdCaZYqCCamTuwrRAPlKn3p.jpg",
+      "id": 4
+    },
+    {
+      "name": "Testere 6",
+      "rating": "6.3",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cM9G0mKHFYbXMiJPyUBUjbwKuda.jpg",
+      "overview": "Özel Ajan Strahm artık ölmüştür. Dedektif Hoffman ise Jigsaw'ın mirasını devralan yeni isim olarak ortaya çıkar. Peşindeki FBI kendisini bulmaya adım adım yaklaşınca Hoffman yeni bir oyun başlatmak zorunda kalır. Testere Serisi'nin yeni filminde 4. ve 5. filmin senaryolarını yazan Patrick Melton ve Marcus Dunstan ikilisi tekrardan senarist olarak karşımıza çıkıyorlar. Yapılan açıklamaya göre 6. film Jigsaw'ın büyük planının tamamiyle anlaşılacağı film olacak.",
+      "id": 5
+    }
+  ]
+}
